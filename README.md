@@ -126,7 +126,7 @@ def get_freq_itemset(...):
 
 ![debug=False](Screenshots/debug_equals_False.png)
 
-- When we turn this var off, we will get the result directly. It's the same as before but different in data structure.
+- When we turn this var off, we will get the result directly. It's the same value as before but different in data structure.
   ![Final result debug=False](Screenshots/final_result_debug_False.png)
 
 ## 4. Find Closed Frequent itemset
