@@ -29,6 +29,7 @@
 
 Data file Description:
 
+- Get data from this [link](https://www.philippe-fournier-viger.com/spmf/index.php?link=datasets.php#:~:text=used%20in%20SPMF%3A-,Dataset%20name,-Description "An Open-Source Data Mining Library").
 - Each rows is one transaction.
 - Items in each transaction are numbers (because comparing number is faster than string).
 - I will use _"simple_text.txt"_ as an example:
